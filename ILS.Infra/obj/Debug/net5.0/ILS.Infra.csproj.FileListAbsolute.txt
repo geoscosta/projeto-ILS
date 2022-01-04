@@ -1,0 +1,5 @@
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.csproj.AssemblyReference.cache
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.AssemblyInfoInputs.cache
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.AssemblyInfo.cs
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.csproj.CoreCompileInputs.cache

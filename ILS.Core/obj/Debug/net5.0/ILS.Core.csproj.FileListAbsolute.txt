@@ -1,0 +1,11 @@
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/bin/Debug/net5.0/ILS.Core.deps.json
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/bin/Debug/net5.0/ILS.Core.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/bin/Debug/net5.0/ref/ILS.Core.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/bin/Debug/net5.0/ILS.Core.pdb
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.AssemblyInfoInputs.cache
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.AssemblyInfo.cs
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.csproj.CoreCompileInputs.cache
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/obj/Debug/net5.0/ref/ILS.Core.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.pdb
