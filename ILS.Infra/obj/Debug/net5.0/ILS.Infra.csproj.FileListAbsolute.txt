@@ -3,3 +3,16 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.AssemblyInfoInputs.cache
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.AssemblyInfo.cs
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.csproj.CoreCompileInputs.cache
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/bin/Debug/net5.0/ILS.Infra.deps.json
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/bin/Debug/net5.0/ILS.Infra.runtimeconfig.json
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/bin/Debug/net5.0/ILS.Infra.runtimeconfig.dev.json
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/bin/Debug/net5.0/ILS.Infra.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/bin/Debug/net5.0/ref/ILS.Infra.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/bin/Debug/net5.0/ILS.Infra.pdb
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/bin/Debug/net5.0/ILS.Domain.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/bin/Debug/net5.0/ILS.Domain.pdb
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.csproj.CopyComplete
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ref/ILS.Infra.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.pdb
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.genruntimeconfig.cache

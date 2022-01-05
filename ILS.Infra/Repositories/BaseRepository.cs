@@ -50,5 +50,10 @@ namespace ILS.Infra.Repositories
         public virtual async Task<List<T>> Get(){
             return await _context.Set<T>().AsNoTracking().ToListAsync();
         }
+
+        public Task<T> Romove(long id)
+        {
+            throw new System.NotImplementedException();
+        }
     }
 }

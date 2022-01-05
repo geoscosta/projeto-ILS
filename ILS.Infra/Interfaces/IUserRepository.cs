@@ -1,4 +1,5 @@
 using System.Threading.Tasks;
+using ILD.Domain.Entities;
 
 namespace ILS.Infra.Interfaces
 {

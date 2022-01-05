@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F56EAC62-2220-432A-BFB5-18765A1DD9A0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ILS.Infra/Repositories/BaseRepository.cs">
+    <Files>
+      <File FileName="ILS.Infra/Repositories/BaseRepository.cs" Line="5" Column="27" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ILS" expanded="True">
+            <Node name="ILS.Api" expanded="True" />
+            <Node name="ILS.Core" expanded="True" />
+            <Node name="ILS.Infra" expanded="True">
+              <Node name="Repositories" expanded="True">
+                <Node name="BaseRepository.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="ILS.Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ILS.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
