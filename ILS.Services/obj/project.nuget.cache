@@ -1,12 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "urwZBf8lMsfdGDU5htfRy52Xc0u3ZsvIKovzSItckkb6aEygPkh4dthKGoipNrLgmvfXBNM3HjrqgcK6ijHaaQ==",
+  "dgSpecHash": "TqihDIEQ8WlVjetw/G6Y20RttnNtSnHFiFfBGzhI5JJ4377IGyg09mwF2OJ50uJ8pwLYqYLBQ0PgAVibdPeuwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\geovane.costa\\source\\repos\\VSCode\\projeto-ILS\\ILS.Services\\ILS.Services.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\geovane.costa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\geovane.costa\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
-    "C:\\Users\\geovane.costa\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Services/ILS.Services.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

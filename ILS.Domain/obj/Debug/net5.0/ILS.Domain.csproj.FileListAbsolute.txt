@@ -10,15 +10,26 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Domain/obj/Debug/net5.0/ref/ILS.Domain.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.pdb
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\bin\Debug\net5.0\ILS.Domain.deps.json
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\bin\Debug\net5.0\ILS.Domain.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\bin\Debug\net5.0\ref\ILS.Domain.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\bin\Debug\net5.0\ILS.Domain.pdb
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\obj\Debug\net5.0\ILS.Domain.csproj.AssemblyReference.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\obj\Debug\net5.0\ILS.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\obj\Debug\net5.0\ILS.Domain.AssemblyInfoInputs.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\obj\Debug\net5.0\ILS.Domain.AssemblyInfo.cs
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\obj\Debug\net5.0\ILS.Domain.csproj.CoreCompileInputs.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\obj\Debug\net5.0\ILS.Domain.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\obj\Debug\net5.0\ref\ILS.Domain.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Domain\obj\Debug\net5.0\ILS.Domain.pdb
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/bin/Debug/net5.0/ILS.Domain.deps.json
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/bin/Debug/net5.0/ILS.Domain.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/bin/Debug/net5.0/ref/ILS.Domain.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/bin/Debug/net5.0/ILS.Domain.pdb
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.csproj.AssemblyReference.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.AssemblyInfoInputs.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.AssemblyInfo.cs
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.csproj.CoreCompileInputs.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ref/ILS.Domain.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.pdb
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/bin/Debug/net5.0/ILS.Domain.deps.json
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/bin/Debug/net5.0/ILS.Domain.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/bin/Debug/net5.0/ref/ILS.Domain.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/bin/Debug/net5.0/ILS.Domain.pdb
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.AssemblyInfoInputs.cache
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.AssemblyInfo.cs
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.csproj.CoreCompileInputs.cache
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ref/ILS.Domain.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/obj/Debug/net5.0/ILS.Domain.pdb

@@ -11,10 +11,12 @@ namespace ILS.Infra.Context
         {}
 
         public virtual DbSet<User> Users { get; set; }
+        public virtual DbSet<Films> Films { get; set; }
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
             builder.ApplyConfiguration(new UserMap());
+            builder.ApplyConfiguration(new FilmsMap());
         }
     }
 }
