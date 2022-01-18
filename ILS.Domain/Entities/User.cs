@@ -1,8 +1,7 @@
 using System;
 using System.Collections.Generic;
-using ILS.Domain.Entities;
 
-namespace ILD.Domain.Entities
+namespace ILS.Domain.Entities
 {
     public class User : Base {
         public string Name { get; private set; }

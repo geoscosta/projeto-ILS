@@ -17,7 +17,7 @@ namespace ILS.Infra.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 64)
                 .HasAnnotation("ProductVersion", "5.0.13");
 
-            modelBuilder.Entity("ILD.Domain.Entities.User", b =>
+            modelBuilder.Entity("ILS.Domain.Entities.User", b =>
                 {
                     b.Property<long>("Id")
                         .ValueGeneratedOnAdd()

@@ -9,6 +9,7 @@
       "ILS.Infra/1.0.0": {
         "dependencies": {
           "ILS.Domain": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "5.0.13",
           "Microsoft.EntityFrameworkCore.Design": "5.0.13",
           "Microsoft.EntityFrameworkCore.Tools": "5.0.13",
           "Pomelo.EntityFrameworkCore.MySql": "5.0.3"

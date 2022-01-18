@@ -16,3 +16,21 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ref/ILS.Infra.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.pdb
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Infra/obj/Debug/net5.0/ILS.Infra.genruntimeconfig.cache
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\bin\Debug\net5.0\ILS.Infra.deps.json
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\bin\Debug\net5.0\ILS.Infra.runtimeconfig.json
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\bin\Debug\net5.0\ILS.Infra.runtimeconfig.dev.json
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\bin\Debug\net5.0\ILS.Infra.dll
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\bin\Debug\net5.0\ref\ILS.Infra.dll
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\bin\Debug\net5.0\ILS.Infra.pdb
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\bin\Debug\net5.0\ILS.Domain.dll
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\bin\Debug\net5.0\ILS.Domain.pdb
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\obj\Debug\net5.0\ILS.Infra.csproj.AssemblyReference.cache
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\obj\Debug\net5.0\ILS.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\obj\Debug\net5.0\ILS.Infra.AssemblyInfoInputs.cache
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\obj\Debug\net5.0\ILS.Infra.AssemblyInfo.cs
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\obj\Debug\net5.0\ILS.Infra.csproj.CoreCompileInputs.cache
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\obj\Debug\net5.0\ILS.Infra.csproj.CopyComplete
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\obj\Debug\net5.0\ILS.Infra.dll
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\obj\Debug\net5.0\ref\ILS.Infra.dll
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\obj\Debug\net5.0\ILS.Infra.pdb
+C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Infra\obj\Debug\net5.0\ILS.Infra.genruntimeconfig.cache

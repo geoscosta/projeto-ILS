@@ -1,6 +1,6 @@
 using System.Linq;
 using System.Threading.Tasks;
-using ILD.Domain.Entities;
+using ILS.Domain.Entities;
 using ILS.Infra.Context;
 using ILS.Infra.Interfaces;
 using Microsoft.EntityFrameworkCore;
