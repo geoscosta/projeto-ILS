@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iC2gLdeVF6+QnAHX/lhP1SIzfRuVEggLpEybj3u+7JbIICKXJDXOcPbxi7WH6JEqllOX9qnEQxqoeB841+UoSg==",
+  "dgSpecHash": "DWo2Z8A7IQQ9Agyt9fTLOtQ3gls5tUit7DwGdLemIqK2kMRoFFQnSdZUXshQMnN1iY/3KnaePa/npHNDJj3FlQ==",
   "success": true,
-  "projectFilePath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/ILS.Domain.csproj",
+  "projectFilePath": "C:\\Users\\geovane.costa\\source\\repos\\VSCode\\projeto-ILS\\ILS.Domain\\ILS.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

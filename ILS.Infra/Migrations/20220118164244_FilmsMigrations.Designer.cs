@@ -3,14 +3,16 @@ using ILS.Infra.Context;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace ILS.Infra.Migrations
 {
     [DbContext(typeof(ILSContext))]
-    partial class ILSContextModelSnapshot : ModelSnapshot
+    [Migration("20220118164244_FilmsMigrations")]
+    partial class FilmsMigrations
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
