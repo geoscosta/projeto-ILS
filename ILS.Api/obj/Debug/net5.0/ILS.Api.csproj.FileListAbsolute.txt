@@ -20,6 +20,43 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Api/obj/Debug/net5.0/ref/ILS.Api.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.pdb
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.genruntimeconfig.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/appsettings.Development.json
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/appsettings.json
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Api.StaticWebAssets.xml
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Api.exe
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Api.deps.json
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Api.runtimeconfig.json
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Api.runtimeconfig.dev.json
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Api.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ref/ILS.Api.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Api.pdb
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/Humanizer.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/Microsoft.Extensions.DependencyInjection.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/MySqlConnector.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Domain.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Infra.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Infra.pdb
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Domain.pdb
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.csproj.AssemblyReference.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.AssemblyInfoInputs.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.AssemblyInfo.cs
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.csproj.CoreCompileInputs.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/scopedcss/bundle/ILS.Api.styles.css
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/staticwebassets/ILS.Api.StaticWebAssets.Manifest.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.RazorTargetAssemblyInfo.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.csproj.CopyComplete
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ref/ILS.Api.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.pdb
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.genruntimeconfig.cache
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/appsettings.Development.json
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/appsettings.json
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Api.StaticWebAssets.xml
@@ -39,9 +76,11 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/MySqlConnector.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/Pomelo.EntityFrameworkCore.MySql.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/System.Diagnostics.DiagnosticSource.dll
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Core.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Domain.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Infra.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Infra.pdb
+/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Core.pdb
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/bin/Debug/net5.0/ILS.Domain.pdb
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.csproj.AssemblyReference.cache
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.GeneratedMSBuildEditorConfig.editorconfig
@@ -57,40 +96,3 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/obj/Debug/net5.0/ref/ILS.Api.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.pdb
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Api/obj/Debug/net5.0/ILS.Api.genruntimeconfig.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\appsettings.Development.json
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\appsettings.json
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Api.StaticWebAssets.xml
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Api.exe
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Api.deps.json
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Api.runtimeconfig.json
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Api.runtimeconfig.dev.json
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Api.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ref\ILS.Api.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Api.pdb
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\Humanizer.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\MySqlConnector.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\Pomelo.EntityFrameworkCore.MySql.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Domain.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Infra.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Infra.pdb
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\bin\Debug\net5.0\ILS.Domain.pdb
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.csproj.AssemblyReference.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.AssemblyInfoInputs.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.AssemblyInfo.cs
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.csproj.CoreCompileInputs.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\scopedcss\bundle\ILS.Api.styles.css
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\staticwebassets\ILS.Api.StaticWebAssets.Manifest.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.RazorTargetAssemblyInfo.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.csproj.CopyComplete
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ref\ILS.Api.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.pdb
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Api\obj\Debug\net5.0\ILS.Api.genruntimeconfig.cache

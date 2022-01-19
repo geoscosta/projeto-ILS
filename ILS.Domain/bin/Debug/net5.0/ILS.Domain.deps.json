@@ -7,14 +7,27 @@
   "targets": {
     ".NETCoreApp,Version=v5.0": {
       "ILS.Domain/1.0.0": {
+        "dependencies": {
+          "IlS.Core": "1.0.0"
+        },
         "runtime": {
           "ILS.Domain.dll": {}
+        }
+      },
+      "IlS.Core/1.0.0": {
+        "runtime": {
+          "ILS.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
     "ILS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IlS.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

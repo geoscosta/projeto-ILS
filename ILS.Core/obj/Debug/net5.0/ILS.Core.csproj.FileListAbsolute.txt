@@ -9,11 +9,21 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/obj/Debug/net5.0/ref/ILS.Core.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.pdb
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/bin/Debug/net5.0/ILS.Core.deps.json
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/bin/Debug/net5.0/ILS.Core.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/bin/Debug/net5.0/ref/ILS.Core.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/bin/Debug/net5.0/ILS.Core.pdb
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.AssemblyInfoInputs.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.AssemblyInfo.cs
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.csproj.CoreCompileInputs.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/obj/Debug/net5.0/ref/ILS.Core.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.pdb
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/bin/Debug/net5.0/ILS.Core.deps.json
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/bin/Debug/net5.0/ILS.Core.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/bin/Debug/net5.0/ref/ILS.Core.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/bin/Debug/net5.0/ILS.Core.pdb
-/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.csproj.AssemblyReference.cache
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.GeneratedMSBuildEditorConfig.editorconfig
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.AssemblyInfoInputs.cache
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.AssemblyInfo.cs
@@ -21,14 +31,3 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/obj/Debug/net5.0/ref/ILS.Core.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/obj/Debug/net5.0/ILS.Core.pdb
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\bin\Debug\net5.0\ILS.Core.deps.json
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\bin\Debug\net5.0\ILS.Core.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\bin\Debug\net5.0\ref\ILS.Core.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\bin\Debug\net5.0\ILS.Core.pdb
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\obj\Debug\net5.0\ILS.Core.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\obj\Debug\net5.0\ILS.Core.AssemblyInfoInputs.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\obj\Debug\net5.0\ILS.Core.AssemblyInfo.cs
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\obj\Debug\net5.0\ILS.Core.csproj.CoreCompileInputs.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\obj\Debug\net5.0\ILS.Core.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\obj\Debug\net5.0\ref\ILS.Core.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Core\obj\Debug\net5.0\ILS.Core.pdb

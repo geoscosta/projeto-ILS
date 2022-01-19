@@ -1,5 +1,7 @@
 using System;
+using ILS.Core.Exceptions;
 using System.Collections.Generic;
+
 
 namespace ILS.Domain.Entities
 {
@@ -24,7 +26,7 @@ namespace ILS.Domain.Entities
 
         public override bool Validate()
         {
-            throw new NotImplementedException();
+            throw new DomainException("Alguns campos estão inválidos, por favor corrija-os", _errors);
         }
     }
 }

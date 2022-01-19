@@ -10,6 +10,17 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Services/obj/Debug/net5.0/ILS.Services.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Services/obj/Debug/net5.0/ref/ILS.Services.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/ILS/ILS.Services/obj/Debug/net5.0/ILS.Services.pdb
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/bin/Debug/net5.0/ILS.Services.deps.json
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/bin/Debug/net5.0/ILS.Services.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/bin/Debug/net5.0/ref/ILS.Services.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/bin/Debug/net5.0/ILS.Services.pdb
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/obj/Debug/net5.0/ILS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/obj/Debug/net5.0/ILS.Services.AssemblyInfoInputs.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/obj/Debug/net5.0/ILS.Services.AssemblyInfo.cs
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/obj/Debug/net5.0/ILS.Services.csproj.CoreCompileInputs.cache
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/obj/Debug/net5.0/ILS.Services.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/obj/Debug/net5.0/ref/ILS.Services.dll
+C:/Users/geovane.costa/source/repos/VSCode/projeto-ILS/ILS.Services/obj/Debug/net5.0/ILS.Services.pdb
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Services/bin/Debug/net5.0/ILS.Services.deps.json
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Services/bin/Debug/net5.0/ILS.Services.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Services/bin/Debug/net5.0/ref/ILS.Services.dll
@@ -22,14 +33,3 @@
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Services/obj/Debug/net5.0/ILS.Services.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Services/obj/Debug/net5.0/ref/ILS.Services.dll
 /Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Services/obj/Debug/net5.0/ILS.Services.pdb
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\bin\Debug\net5.0\ILS.Services.deps.json
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\bin\Debug\net5.0\ILS.Services.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\bin\Debug\net5.0\ref\ILS.Services.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\bin\Debug\net5.0\ILS.Services.pdb
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\obj\Debug\net5.0\ILS.Services.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\obj\Debug\net5.0\ILS.Services.AssemblyInfoInputs.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\obj\Debug\net5.0\ILS.Services.AssemblyInfo.cs
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\obj\Debug\net5.0\ILS.Services.csproj.CoreCompileInputs.cache
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\obj\Debug\net5.0\ILS.Services.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\obj\Debug\net5.0\ref\ILS.Services.dll
-C:\Users\geovane.costa\source\repos\VSCode\projeto-ILS\ILS.Services\obj\Debug\net5.0\ILS.Services.pdb

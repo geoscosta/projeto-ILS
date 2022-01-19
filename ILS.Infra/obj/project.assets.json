@@ -256,9 +256,22 @@
           "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
+      "IlS.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/IlS.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/IlS.Core.dll": {}
+        }
+      },
       "ILS.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "IlS.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/ILS.Domain.dll": {}
         },
@@ -828,6 +841,11 @@
         "version.txt"
       ]
     },
+    "IlS.Core/1.0.0": {
+      "type": "project",
+      "path": "../ILS.Core/IlS.Core.csproj",
+      "msbuildProject": "../ILS.Core/IlS.Core.csproj"
+    },
     "ILS.Domain/1.0.0": {
       "type": "project",
       "path": "../ILS.Domain/ILS.Domain.csproj",
@@ -844,34 +862,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\geovane.costa\\.nuget\\packages\\": {}
+    "/Users/geovane/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\geovane.costa\\source\\repos\\VSCode\\projeto-ILS\\ILS.Infra\\ILS.Infra.csproj",
+      "projectUniqueName": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Infra/ILS.Infra.csproj",
       "projectName": "ILS.Infra",
-      "projectPath": "C:\\Users\\geovane.costa\\source\\repos\\VSCode\\projeto-ILS\\ILS.Infra\\ILS.Infra.csproj",
-      "packagesPath": "C:\\Users\\geovane.costa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\geovane.costa\\source\\repos\\VSCode\\projeto-ILS\\ILS.Infra\\obj\\",
+      "projectPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Infra/ILS.Infra.csproj",
+      "packagesPath": "/Users/geovane/.nuget/packages/",
+      "outputPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Infra/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\geovane.costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/geovane/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\geovane.costa\\source\\repos\\VSCode\\projeto-ILS\\ILS.Domain\\ILS.Domain.csproj": {
-              "projectPath": "C:\\Users\\geovane.costa\\source\\repos\\VSCode\\projeto-ILS\\ILS.Domain\\ILS.Domain.csproj"
+            "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/ILS.Domain.csproj": {
+              "projectPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/ILS.Domain.csproj"
             }
           }
         }
@@ -922,7 +938,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
