@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "IlS.Core/1.0.0": {
+      "ILS.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/IlS.Core.dll": {}
+          "bin/placeholder/ILS.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/IlS.Core.dll": {}
+          "bin/placeholder/ILS.Core.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "IlS.Core/1.0.0": {
+    "ILS.Core/1.0.0": {
       "type": "project",
-      "path": "../ILS.Core/IlS.Core.csproj",
-      "msbuildProject": "../ILS.Core/IlS.Core.csproj"
+      "path": "../ILS.Core/ILS.Core.csproj",
+      "msbuildProject": "../ILS.Core/ILS.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "IlS.Core >= 1.0.0"
+      "ILS.Core >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -51,8 +51,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/IlS.Core.csproj": {
-              "projectPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/IlS.Core.csproj"
+            "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/ILS.Core.csproj": {
+              "projectPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/ILS.Core.csproj"
             }
           }
         }

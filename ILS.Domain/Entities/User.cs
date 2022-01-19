@@ -16,6 +16,8 @@ namespace ILS.Domain.Entities
             Cpf = cpf;
             BirthDate = birthDate;
             _errors = new List<string>();
+
+            Validate();
         }
 
         public void ChangeUser(string name, string cpf, DateTime birthDate){

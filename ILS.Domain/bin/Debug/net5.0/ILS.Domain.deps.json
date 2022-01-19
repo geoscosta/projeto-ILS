@@ -8,13 +8,13 @@
     ".NETCoreApp,Version=v5.0": {
       "ILS.Domain/1.0.0": {
         "dependencies": {
-          "IlS.Core": "1.0.0"
+          "ILS.Core": "1.0.0"
         },
         "runtime": {
           "ILS.Domain.dll": {}
         }
       },
-      "IlS.Core/1.0.0": {
+      "ILS.Core/1.0.0": {
         "runtime": {
           "ILS.Core.dll": {}
         }
@@ -27,7 +27,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "IlS.Core/1.0.0": {
+    "ILS.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -4,4 +4,14 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="automapper" Version="11.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ILS.Domain\ILS.Domain.csproj" />
+    <ProjectReference Include="..\ILS.Core\ILS.Core.csproj" />
+    <ProjectReference Include="..\ILS.Infra\ILS.Infra.csproj" />
+  </ItemGroup>
+
 </Project>

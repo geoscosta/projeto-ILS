@@ -213,14 +213,14 @@
           }
         }
       },
-      "IlS.Core/1.0.0": {
+      "ILS.Core/1.0.0": {
         "runtime": {
           "ILS.Core.dll": {}
         }
       },
       "ILS.Domain/1.0.0": {
         "dependencies": {
-          "IlS.Core": "1.0.0"
+          "ILS.Core": "1.0.0"
         },
         "runtime": {
           "ILS.Domain.dll": {}
@@ -388,7 +388,7 @@
       "path": "system.diagnostics.diagnosticsource/5.0.1",
       "hashPath": "system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
     },
-    "IlS.Core/1.0.0": {
+    "ILS.Core/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

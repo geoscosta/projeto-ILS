@@ -1,7 +1,9 @@
 ﻿<Properties StartupConfiguration="{F56EAC62-2220-432A-BFB5-18765A1DD9A0}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ILS.Infra/Repositories/BaseRepository.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ILS.Services/Services/UserService.cs">
     <Files>
       <File FileName="ILS.Infra/Repositories/BaseRepository.cs" Line="5" Column="27" />
+      <File FileName="ILS.Services/Services/UserService.cs" Line="20" Column="1" />
+      <File FileName="ILS.Infra/Repositories/UserRepository.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,11 +12,13 @@
             <Node name="ILS.Api" expanded="True" />
             <Node name="ILS.Core" expanded="True" />
             <Node name="ILS.Infra" expanded="True">
-              <Node name="Repositories" expanded="True">
-                <Node name="BaseRepository.cs" selected="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="ILS.Services" expanded="True">
+              <Node name="Services" expanded="True">
+                <Node name="UserService.cs" selected="True" />
               </Node>
             </Node>
-            <Node name="ILS.Services" expanded="True" />
           </Node>
         </State>
       </Pad>

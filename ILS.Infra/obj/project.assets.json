@@ -256,21 +256,21 @@
           "lib/net5.0/System.Diagnostics.DiagnosticSource.dll": {}
         }
       },
-      "IlS.Core/1.0.0": {
+      "ILS.Core/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/IlS.Core.dll": {}
+          "bin/placeholder/ILS.Core.dll": {}
         },
         "runtime": {
-          "bin/placeholder/IlS.Core.dll": {}
+          "bin/placeholder/ILS.Core.dll": {}
         }
       },
       "ILS.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
-          "IlS.Core": "1.0.0"
+          "ILS.Core": "1.0.0"
         },
         "compile": {
           "bin/placeholder/ILS.Domain.dll": {}
@@ -841,10 +841,10 @@
         "version.txt"
       ]
     },
-    "IlS.Core/1.0.0": {
+    "ILS.Core/1.0.0": {
       "type": "project",
-      "path": "../ILS.Core/IlS.Core.csproj",
-      "msbuildProject": "../ILS.Core/IlS.Core.csproj"
+      "path": "../ILS.Core/ILS.Core.csproj",
+      "msbuildProject": "../ILS.Core/ILS.Core.csproj"
     },
     "ILS.Domain/1.0.0": {
       "type": "project",

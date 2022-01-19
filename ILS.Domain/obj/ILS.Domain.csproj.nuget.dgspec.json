@@ -4,12 +4,12 @@
     "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Domain/ILS.Domain.csproj": {}
   },
   "projects": {
-    "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/IlS.Core.csproj": {
+    "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/ILS.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/IlS.Core.csproj",
-        "projectName": "IlS.Core",
-        "projectPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/IlS.Core.csproj",
+        "projectUniqueName": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/ILS.Core.csproj",
+        "projectName": "ILS.Core",
+        "projectPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/ILS.Core.csproj",
         "packagesPath": "/Users/geovane/.nuget/packages/",
         "outputPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/obj/",
         "projectStyle": "PackageReference",
@@ -78,8 +78,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/IlS.Core.csproj": {
-                "projectPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/IlS.Core.csproj"
+              "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/ILS.Core.csproj": {
+                "projectPath": "/Users/geovane/Library/Mobile Documents/com~apple~CloudDocs/Documents/Course Dev/projeto-ILS/ILS.Core/ILS.Core.csproj"
               }
             }
           }
